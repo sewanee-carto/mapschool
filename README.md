@@ -6,6 +6,9 @@ A curated set of resources for anyone looking to solve spational problems, setup
 
 * [Teach OSM](http://teachosm.org/en/) - resources for teaching OpenStreetMap
 
+* [Maptime | Learn](http://maptime.io/lessons-resources/) - learning
+  resources for all things geo
+
 * [Mapbox Guides](https://www.mapbox.com/guides/) - carto the Mapbox way
   * start with [How Mapbox Works](https://www.mapbox.com/guides/how-mapbox-works/)
 
