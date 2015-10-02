@@ -50,3 +50,12 @@ A curated set of resources for anyone looking to solve spational problems, setup
 
 * [OGR SQL Tutorial](https://github.com/maptime/OGR-SQL) - demonstrates how to
   use the OGR utility to query and transform geo data for cartographic rendering
+
+
+## See Also
+
+* [Rosetta Stone for moving from Google to Mapbox API](https://www.mapbox.com/blog/google-to-mapbox/)
+* [Sewanee Campus on OpenStreetMap](http://www.openstreetmap.org/#map=16/35.2072/-85.9159&layers=QND)
+  * [in 3D](http://osmbuildings.org/gl/?lat=35.20450&lon=-85.91958&zoom=17.00&rotation=-20&tilt=30)
+* [Open mapping coming to a campus near you!](https://www.mapbox.com/blog/open-mapping-college-campuses/)
+* [A new generation of campus maps!](http://themarklee.com/2014/11/15/new-generation-campus-maps/)
