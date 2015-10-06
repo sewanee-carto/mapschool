@@ -11,6 +11,7 @@ A curated set of resources for anyone looking to solve spational problems, setup
 
 * [Sewanee Campus on OSM](http://www.openstreetmap.org/#map=16/35.2072/-85.9159&layers=QND)
   * [in 3D](http://osmbuildings.org/gl/?lat=35.20450&lon=-85.91958&zoom=17.00&rotation=-20&tilt=30)
+  * [flyover](http://bl.ocks.org/joyrexus/raw/d2f3f422a33c07754f82/a42a19defd8279767b5c6cc40ec6ab1ceab803f0/)
 
 
 ## Web Mapping Basics
